@@ -1,0 +1,298 @@
+Participant ID ,Gender,Age,Diagnosis 
+BL01,M,46,
+BL02,F,76,
+BL03,F,88,
+BL04,F,42,
+BL05,F,75,
+BL06,F,65,
+BL07,F,24,
+BL08,F,27,
+BL09,M,70,
+BL10,F,21,
+BL11,F,77,
+BL12,M,68,
+BL13,F,63,
+BL14,M,34,
+BL16,F,65,
+BL17,M,55,
+BL18,F,49,
+BL19,F,47,
+BL20,F,71,
+BL21,F,74,
+LA1001,F,60,N
+LA1002,F,33,N
+LA1003,M,28,N
+LA1005,F,20,Y
+LA1009,M,67,Y
+LA2001,M,31,N
+LA2004,F,65,Y
+LA2007,F,35,Y
+LA5003,F,44,Y
+LA7003,F,80,Y
+LA7004,F,62,Y
+LA7005,F,52,Y
+LA7006,F,78,Y
+LA7007,F,54,Y
+LA7008,F,46,Y
+LA7009,F,56,Y
+LA7011,F,27,Y
+LA7012,F,25,N
+LA8001,F,47,Y
+LA8002,M,40,Y
+LA9002,F,16,Y
+LA9003,F,27,N
+LA9004,F,59,Y
+LA9006,F,18,Y
+LA9007,F,30,Y
+LA9008,M,56,Y
+LA9009,F,20,Y
+LA9010,M,56,Y
+LA9011,M,22,N
+LA9012,F,27,N
+LA9013,F,29,N
+LA9014,F,32,N
+LA9015,M,24,N
+LA9016,F,21,N
+LA9017,F,18,N
+LA9018,F,24,N
+LA9019,F,42,N
+LA9020,F,18,N
+LA9021,M,24,N
+LA9022,M,25,N
+LA9023,F,21,N
+LA9024,F,22,N
+LA9025,M,25,N
+LA9026,M,22,Y
+LA9027,F,36,Y
+LA90026,M,22,Y
+LA10001,F,24,N
+NYU1001,male,23,Vocal fold cyst
+NYU1002,male,86,vocal fold parlysis (L)
+NYU1003,female,24,Vocal fold scar
+NYU1004,male,55,Bilareral phonotraumatic Lesion
+NYU1005,female,45,Phonotraumatic Lesion
+NYU1006,male,60,Vocal Fold Paralysis
+NYU1007,female,25,Vocal Fold Scar
+NYU1008,female,59,Vocal Fold Edema
+NYU1009,female,32,Vocal Fold Polyp
+NYU1010,female,56,stenosis
+NYU1011,Female,25,vocal fold nodules
+NYU1012,Female,25,Phonotraumatic Lesion
+NYU1013,Female,22,vocal fold lesions
+NYU1014,Female,51,Vocal fold scar
+NYU1015,Female,52,Atrophy
+NYU1016,female,61,vocal fold polyp
+NYU1017,Male,68,vocal tremor
+NYU1018,female,80,atrophy
+NYU1019,female,54,phonotrauma 
+NYU1020,male,19,vocal fold edema
+NYU1022,male,57,VFParesis
+NYU1023,male,28,Vfpaolyp
+NYU1024,female,42,Vflesions
+NYU1025,male,56,VFPAralysis
+NYU1026,female,55,Vflesions
+NYU1027,male,37,VFParesis
+NYU1028,male,38,Vfscar
+NYU1029,female,55,VFPAralysis
+NYU1030,female,57,VFPolyp
+PT001,M,61,Reinke's Edema
+PT002,M,72,atrophy/hypomobility
+PT003,F,24,MTD
+PT004,M,74,ulcerative laryngitis 
+PT005,F,58,lesions
+PT006,F,54,MTD
+PT007,F,36,vocal process granulomas
+PT008,F,71,Reinke's Edema
+PT009,M,49,"Laryngeal stenosis, bilateral VF paralysis"
+PT010,F,72,"MTD, unilateral VF paralysis"
+PT011,F,39,lesions
+PT012,F,38,MTD
+PT013,F,61,MTD
+PT014,F,65,Reinke's Edema
+PT015,F,75,lesions
+PT016,F,64,PVFM
+PT017,F,64,MTD
+PT018,M,30,Bilateral VF paresis
+PT019,M,81,lesions
+PT020,F,80,"Unilateral VF paralysis, atrophy"
+PT022,F,67,"atrophy, unilateral Vf paralysis"
+PT023,M,70,"Parkinson's disease, atrophy"
+PT024,M,65,Parkinson's disease 
+PT025,F,66,MTD
+PT026,F,41,Unilateral VF paralysis
+PT027,F,35,Unilateral VF paralysis
+PT028,M,76,Unilateral VF paralysis
+PT029,F,77,atrophy
+PT030,M,42,Leukoplakia
+PT031,M,68,Unilateral VF paralysis
+PT032,F,46,MTD
+PT033,F,90,"Unilateral VF paralysis, atrophy"
+PT034,F,80,"Unilateral VF paralysis, atrophy"
+PT036,F,64,Tremor
+PT037,M,79,Unilateral VF paralysis
+PT038,F,59,Unilateral VF paralysis
+PT039,M,93,Atrophy
+PT040,F,17,MTD
+PT041,F,68,MTD
+PT042,F,57,MTD
+PT043,F,43,MTD
+PT044,F,57,MTD
+PT045,M,56,MTD
+PT046,F,65,Unilateral VF paralysis
+PT047,F,78,Unilateral VF paralysis
+PT048,M,27,Unilateral VF paralysis
+PT049,M,84,Glottic Cancer
+PT050,M,78,lesions
+PT051,F,71,lesions
+PT052,F,15,MTD
+PT053,F,47,MTD
+PT054,F,61,Unilateral VF paralysis
+PT055,F,70,lesions
+PT056,M,68,Unilateral VF paralysis
+PT057,F,69,"Atrophy, MTD"
+PT058,F,70,"Atrophy, MTD"
+PT060,M,75,Parkinson's disease
+PT061,M,58,Atrophy
+PT062,M,65,Atrophy
+PT063,M,55,Leukoplakia
+PT064,M,56,vocal process granulomas
+PT065,M,57,Unilateral VF paralysis
+PT066,M,72,lesions
+PT067,M,50,lesions
+PT068,M,37,MTD
+PT069,M,25,MTD
+PT070,F,37,Laryngeal granuloma
+PT071,M,59,lesions
+PT072,F,16,Polyp
+PT073,F,47,Unilateral VF paralysis
+PT074,F,51,Candida laryngitis
+PT075,F,25,MTD
+PT076,F,42,MTD
+PT077,F,68,"Unilateral VF paralysis, Reinke's edema"
+PT078,F,54,MTD
+PT079,F,64,Vocal fold scar
+PT080,M,62,Reinke's edema
+PT081,M,74,Unilateral Vf paralysis
+PT082,F,69,ulcerative laryngitis 
+PT083,F,41,MTD
+PT084,M,19,Bilateral VF paralysis
+PT085,M,29,MTD
+PT086,F,65,Atrophy
+PT087,M,83,Unilateral VF paralysis
+PT088,M,73,Unilateral VF paralysis
+PT089,M,71,"Parkinson's disease, unliateral VF paralysis"
+PT090,M,26,MTD
+PT091,F,35,lesions
+PT092,M,74,atrophy
+PT093,M,63,"MTD, atrophy"
+PT094,M,59,Unilateral VF paralysis
+PT095,M,24,"MTD, lesions"
+PT096,M,45,MTD
+PT097,F,46,MTD
+PT098,M,48,MTD
+PT099,F,15,MTD
+PT100,F,61,Unilateral VF paralysis
+PT101,F,14,MTD
+PT102,M,19,Unilateral VF paralysis
+PT103,F,72,"Unilateral  VF paralysis, atrophy"
+PT104,M,77,Unilateral VF paralysis
+PT105,F,81,Atrophy
+PT106,M,75,"Unilateral VF paralysis, atrophy"
+PT107,M,73,Atrophy
+PT108,M,87,VF carcinoma
+PT109,F,55,lesions
+PT110,F,49,MTD
+PT111,F,39,Goiter
+PT112,F,66,Essential tremor
+PT113,M,62,atrophy
+PT114,F,46,lesions
+PT115,F,34,lesions
+PT116,F,81,atrophy
+PT117,F,71,Adductor spasmodic dysphonia
+PT118,M,58,Unilateral VF paralysis
+PT119,F,71,atrophy
+PT120,F,55,lesions
+PT121,M,75,Unilateral VF paralysis
+PT122,F,61,MTD
+PT123,F,59,Chronic cough
+PT124,F,48,MTD
+PT125,F,63,Adductor spasmodic dysphonia
+PT126,F,89,Adductor spasmodic dysphonia
+PT127,F,74,Unilateral VF paralysis
+PT128,M,35,MTD
+PT129,M,70,"Atrophy, MTD"
+PT130,F,84,Adductor spasmodic dysphonia
+PT131,M,48,lesions
+PT132,M,72,atrophy
+PT133,F,59,MTD
+PT134,M,19,MTD
+PT135,F,69,"MTD, atrophy"
+PT136,M,65,Unilateral VF paralysis
+PT137,M,27,MTD
+SJ1001,M,41,N
+SJ1002,M,77,N
+SJ1003,F,64,N
+SJ1004,F,69,N
+SJ2001,f,69,N
+SJ2002,f,21,N
+Sj2003,f,18,N
+SJ2004,f,22,N
+SJ2005,f,21,N
+SJ2006,f,62,N
+SJ2007,f,23,N
+SJ2008,f,59,N
+SJ2009,m,21,N
+SJ2010,f,57,N
+SJ2011,f,59,N
+SJ2012,f,21,N
+SJ2013,f,21,N
+SJ2014,f,21,N
+SJ2015,f,21,N
+SJ2016,f,21,N
+SJ2017,f,22,N
+SJ4001,F,21,N
+Sj4002,M,20,N
+Sj4003,F,53,N
+Sj4004,F,21,N
+Sj4005,M,51,N
+Sj4006,F,21,N
+Sj4007,M,21,N
+Sj4008,F,19,N
+Sj4009,F,21,N
+Sj5001,F,20,N
+SJ5002,f,20,N
+SJ5003,f,20,N
+SJ5004,f,21,N
+SJ5005,f,21,N
+SJ5006,m,24,N
+SJ5007,f,20,N
+SJ5008,f,22,N
+SJ5009,f,63,N
+SJ5010,f,20,N
+SJ5011,f,20,N
+SJ5012,f,20,N
+SJ5014,f,21,N
+SJ5015,m,21,N
+SJ5016,m,20,N
+SJ5017,m,25,N
+SJ5018,m,21,N
+SJ5019,m,21,N
+SJ5020,f,52,N
+SJ5021,f,37,N
+SJ6001,F,19,N
+SJ6002,m,18,N
+SJ6003,F,21,N
+SJ6004,F,83,N
+SJ6005,M,58,N
+SJ6006,F,17,N
+SJ6007,F,17,N
+SJ6008,F,17,N
+SJ7001,F,21,N
+Sj30001,Female,26,N
+Sj30002,Female,20,N
+Sj30003,Female,21,N
+Sj30004,Female,20,N
+Sj30005,Female,20,N
+Sj30006,Female,18,N
+Sj30007,Female,19,N
+Sj30008,Female,18,N
